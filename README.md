@@ -1,4 +1,4 @@
-**Yogarajan Sivakumar** — Machine Learning Researcher in Interpretable and Uncertainty-Aware AI
+**Yogarajan Sivakumar** — AI/ML Researcher in Interpretable and Uncertainty-Aware AI
 
 Yogarajan Sivakumar is a machine learning researcher working at the intersection of interpretable, uncertainty-aware artificial intelligence and its application to clinical and biomedical problems, with a growing focus on mechanistic interpretability and AI safety. He holds an MS in Computer Engineering with an AI specialization from Stevens Institute of Technology (2026) and a BEng in Electrical Engineering from the National University of Singapore (2024).
 
