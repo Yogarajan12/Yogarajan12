@@ -38,13 +38,13 @@ NeuroState studies a failure mode in which an auxiliary boundary head inside an 
 
 Built a dual-encoder graph neural network for drug-response prediction across **177K GDSC1 molecular and genomic measurements**, reaching Pearson **r = 0.909**, then added split conformal prediction to produce calibrated prediction intervals rather than point predictions alone.
 
-[Code](https://github.com/Yogarajan12/conformal-drug-response) · [Report]([https://github.com/Yogarajan12/conformal-drug-response/tree/main/report](https://github.com/Yogarajan12/conformal-drug-response/blob/main/report/Sivakumar_Yogarajan_Project_Report.pdf))
+[Code](https://github.com/Yogarajan12/conformal-drug-response) · [Report]([https://github.com/Yogarajan12/conformal-drug-response/tree/main/report](https://github.com/Yogarajan12/conformal-drug-response/blob/main/report/))
 
 ### [Diffusion-Based Uncertainty for Fetal Ultrasound]
 
 Tested whether diffusion reconstruction error could identify medical-image cases a classifier should defer rather than answer confidently. The proposed signal supported selective prediction, but performed poorly on important comparative and out-of-distribution tests; that negative result became part of the conclusion rather than something to hide.
 
-[Code](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound) · [Report]([YOUR_ULTRASOUND_REPORT_URL](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound/blob/main/report/Sivakumar_Yogarajan_Project_Report.pdf))
+[Code](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound) · [Report]([YOUR_ULTRASOUND_REPORT_URL](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound/blob/main/report/))
 
 ## Recent research
 
@@ -64,7 +64,7 @@ Co-authored work on serverless infrastructure for reinforcement learning from hu
 
 ## Other work
 
-- **[Auditing Model Interpretability and Robustness](YOUR_XAI_REPORT_URL)** — compared statistical and deep-learning models across clinical tasks using SHAP, Grad-CAM, attention analysis and targeted model editing to examine where explanation methods are informative and where they can mislead.
+- **Auditing Model Interpretability and Robustness** — compared statistical and deep-learning models across clinical tasks using SHAP, Grad-CAM, attention analysis and targeted model editing to examine where explanation methods are informative and where they can mislead.
 - **Calibrated clinical scheduling** — combined no-show prediction with cost-aware overbooking and fairness analysis.
 - **Multivariate gait modelling** — compared classical and deep sequence models for interpretable biomechanical analysis.
 - **Manufacturing anomaly detection & data quality** — developed confident-learning and anomaly-detection pipelines for semiconductor sensor data at Infineon Technologies.
