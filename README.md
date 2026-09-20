@@ -10,15 +10,15 @@ I’m especially interested in a question that keeps recurring across my work: *
 
 ### ICU Extubation Outcomes & Length-of-Stay Prediction — NUS × Singapore General Hospital
 
-I am continuing a research collaboration with professors at the **National University of Singapore** and clinicians at **Singapore General Hospital** on building statistical machine-learning models for ICU extubation outcomes and length of stay.
+I am continuing a research collaboration with professors at the National University of Singapore and clinicians at Singapore General Hospital on building statistical machine-learning models for ICU extubation outcomes and length of stay.
 
-The project has grown from an initial predictive-modelling study into a longer-term effort to determine what would make such a system trustworthy enough for real clinical use. Current work focuses on stronger patient-level validation, interpretability, uncertainty and failure-mode analysis, while preserving meaningful clinician oversight. We are working towards **publication and eventual clinical deployment**.
+The project has grown from an initial predictive-modelling study into a longer-term effort to determine what would make such a system trustworthy enough for real clinical use. Current work focuses on stronger patient-level validation, interpretability, uncertainty and failure-mode analysis, while preserving meaningful clinician oversight. We are working towards publication and eventual clinical deployment.
 
 *Ongoing collaboration; code and manuscript are not yet public.*
 
 ### Frontier-Model Cooperation & Steerability — Game Theory & Evolutionary Algorithms
 
-I am continuing a project that began in my Master's course on game theory and evolutionary algorithms at **Stevens Institute of Technology**, now under the supervision of the professor who taught the course and with the goal of developing it into a research artifact.
+I am continuing a project that began in my Master's course on game theory and evolutionary algorithms at Stevens Institute of Technology, now under the supervision of the professor who taught the course and with the goal of developing it into a research artifact.
 
 The project uses iterated Prisoner’s Dilemma experiments, behavioural strategy classification and evolutionary dynamics to study how frontier language models behave in repeated strategic interactions. I am particularly interested in framing sensitivity, strategic stability and steerability, and what these behaviours may imply for future multi-agent AI systems.
 
@@ -30,21 +30,21 @@ The project uses iterated Prisoner’s Dilemma experiments, behavioural strategy
 
 **First-author paper · IEEE MLSP 2026**
 
-NeuroState studies a failure mode in which an auxiliary boundary head inside an EEG transformer collapses to nearly constant outputs during joint training. Across **11 controlled interventions**, directional gradient isolation was the only tested intervention that produced clearly non-degenerate boundaries. The optimisation result is the main contribution; the physiological interpretation of the learned boundaries remains deliberately scoped as preliminary.
+NeuroState studies a failure mode in which an auxiliary boundary head inside an EEG transformer collapses to nearly constant outputs during joint training. Across 11 controlled interventions, directional gradient isolation was the only tested intervention that produced clearly non-degenerate boundaries. The optimisation result is the main contribution; the physiological interpretation of the learned boundaries remains deliberately scoped as preliminary.
 
 [Accepted Manuscript](https://github.com/Yogarajan12/neurostate/blob/main/paper/NeuroState__Gradient_Isolated_Boundary_Learning_for_Interpretable_EEG_Transformers.pdf) · [Code](https://github.com/Yogarajan12/neurostate) 
 
 ### Uncertainty-Aware Cancer Drug Response Prediction
 
-Built a dual-encoder graph neural network for drug-response prediction across **177K GDSC1 molecular and genomic measurements**, reaching Pearson **r = 0.909**, then added split conformal prediction to produce calibrated prediction intervals rather than point predictions alone.
+Built a dual-encoder graph neural network for drug-response prediction across 177K GDSC1 molecular and genomic measurements, reaching Pearson r = 0.909, then added split conformal prediction to produce calibrated prediction intervals rather than point predictions alone.
 
-[Code](https://github.com/Yogarajan12/conformal-drug-response) · [Report]([https://github.com/Yogarajan12/conformal-drug-response/tree/main/report](https://github.com/Yogarajan12/conformal-drug-response/blob/main/report/))
+[Code](https://github.com/Yogarajan12/conformal-drug-response) · [Report](https://github.com/Yogarajan12/conformal-drug-response/blob/main/report/)
 
 ### Diffusion-Based Uncertainty for Fetal Ultrasound
 
 Tested whether diffusion reconstruction error could identify medical-image cases a classifier should defer rather than answer confidently. The proposed signal supported selective prediction, but performed poorly on important comparative and out-of-distribution tests; that negative result became part of the conclusion rather than something to hide.
 
-[Code](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound) · [Report]([YOUR_ULTRASOUND_REPORT_URL](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound/blob/main/report/))
+[Code](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound) · [Report](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound/blob/main/report/)
 
 ## Recent research
 
@@ -52,7 +52,7 @@ Tested whether diffusion reconstruction error could identify medical-image cases
 
 Completed an empirical mechanistic-interpretability project in September 2026 studying representation geometry, reasoning-versus-answer activations, measurement validity and causal interventions in reasoning-distilled language models.
 
-A manuscript from this work is currently under **double-blind workshop review**. Identifying paper and code links are withheld until the review process permits them to be made public.
+A manuscript from this work is currently under double-blind workshop review. 
 
 ## Collaborative research
 
@@ -60,7 +60,7 @@ A manuscript from this work is currently under **double-blind workshop review**.
 
 Co-authored work on serverless infrastructure for reinforcement learning from human feedback, aimed at reducing redundant compute and improving the efficiency of preference-training experiments. My contribution formed part of a broader collaborative systems effort.
 
-[Paper — arXiv:2602.22718]([YOUR_RLHFLESS_PAPER_URL](https://arxiv.org/abs/2602.22718))
+[Paper — arXiv:2602.22718](https://arxiv.org/abs/2602.22718)
 
 ## Other work
 
