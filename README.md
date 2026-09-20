@@ -26,7 +26,7 @@ The project uses iterated Prisoner’s Dilemma experiments, behavioural strategy
 
 ## Selected repositories
 
-### [NeuroState: Gradient-Isolated Boundary Learning for Interpretable EEG Transformers]
+### NeuroState: Gradient-Isolated Boundary Learning for Interpretable EEG Transformers
 
 **First-author paper · IEEE MLSP 2026**
 
@@ -34,13 +34,13 @@ NeuroState studies a failure mode in which an auxiliary boundary head inside an 
 
 [Accepted Manuscript](https://github.com/Yogarajan12/neurostate/blob/main/paper/NeuroState__Gradient_Isolated_Boundary_Learning_for_Interpretable_EEG_Transformers.pdf) · [Code](https://github.com/Yogarajan12/neurostate) 
 
-### [Uncertainty-Aware Cancer Drug Response Prediction]
+### Uncertainty-Aware Cancer Drug Response Prediction
 
 Built a dual-encoder graph neural network for drug-response prediction across **177K GDSC1 molecular and genomic measurements**, reaching Pearson **r = 0.909**, then added split conformal prediction to produce calibrated prediction intervals rather than point predictions alone.
 
 [Code](https://github.com/Yogarajan12/conformal-drug-response) · [Report]([https://github.com/Yogarajan12/conformal-drug-response/tree/main/report](https://github.com/Yogarajan12/conformal-drug-response/blob/main/report/))
 
-### [Diffusion-Based Uncertainty for Fetal Ultrasound]
+### Diffusion-Based Uncertainty for Fetal Ultrasound
 
 Tested whether diffusion reconstruction error could identify medical-image cases a classifier should defer rather than answer confidently. The proposed signal supported selective prediction, but performed poorly on important comparative and out-of-distribution tests; that negative result became part of the conclusion rather than something to hide.
 
