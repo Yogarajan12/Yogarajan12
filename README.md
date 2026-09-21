@@ -10,6 +10,8 @@ Across both frontier-model and medical-AI research, I keep returning to the same
 
 ### ICU Extubation Outcomes & Length-of-Stay Prediction — NUS × Singapore General Hospital
 
+**First-author work in progress**
+
 I am continuing a research collaboration with professors at the **National University of Singapore** and clinicians at **Singapore General Hospital** on interpretable machine-learning models for successful ICU extubation (whether a patient can remain safely off invasive ventilatory support) and length of stay.
 
 The project has grown from an initial predictive-modelling study into a longer-term effort to determine what would make such a system trustworthy enough for real clinical use. Current work focuses on stronger patient-level validation, interpretability, uncertainty and failure-mode analysis while preserving meaningful clinician oversight. We are working towards **publication and eventual clinical deployment**.
