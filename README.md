@@ -54,7 +54,7 @@ The broader question was one of **reliable self-reporting**: a strong prediction
 
 **Course project · Probabilistic Generative Modelling and Learning**
 
-Built a quality-gated fetal-ultrasound classifier that could **abstain and defer uncertain cases to a human** rather than force a prediction. I tested diffusion reconstruction uncertainty as an independent quality signal alongside classifier confidence.
+Designed a quality-gated fetal-ultrasound classifier that could **abstain and defer uncertain cases to a human** rather than force a prediction. I tested diffusion reconstruction uncertainty as an independent quality signal alongside classifier confidence.
 
 The most useful result was partly negative: although selective prediction worked, diffusion uncertainty itself ranked classification errors substantially worse than simpler uncertainty baselines and largely failed at out-of-distribution detection. I kept that failure in the conclusion because knowing which confidence signals *not* to trust is part of building a trustworthy deferral system.
 
