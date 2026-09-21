@@ -48,7 +48,7 @@ Built a dual-encoder graph neural network for cancer drug-response prediction ac
 
 The broader question was one of **reliable self-reporting**: a strong prediction is much more useful in a high-stakes setting if the system can also communicate how much confidence we should place in it.
 
-[Code](https://github.com/Yogarajan12/conformal-drug-response) · [Report](https://github.com/Yogarajan12/conformal-drug-response/blob/main/report/)
+[Code](https://github.com/Yogarajan12/conformal-drug-response) · [Report](https://github.com/Yogarajan12/conformal-drug-response/blob/main/report/Sivakumar_Yogarajan_Project_Report.pdf)
 
 ### [Diffusion-Based Uncertainty for Fetal Ultrasound](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound)
 
