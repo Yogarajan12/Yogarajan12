@@ -8,7 +8,7 @@ Across both frontier-model and medical-AI research, I keep returning to the same
 
 ## Current research
 
-### ICU Extubation Outcomes & Length-of-Stay Prediction — NUS × Singapore General Hospital
+### ICU Extubation Outcomes & Length-of-Stay Prediction — National University of Singapore × Singapore General Hospital
 
 **First-author work in progress**
 
@@ -116,4 +116,4 @@ Stevens Institute of Technology, 2026 · Provost Scholarship
 **B.Eng. Electrical Engineering (Honours)**  
 National University of Singapore, 2024
 
-Previous research and industry roles include the **Algoverse AI Research Program**, an **AI Research Fellowship** at the Stevens Institute for Artificial Intelligence and Research, a **Research Assistantship** at the National University of Singapore's Control, Intelligent Systems & Robotics group, and a **Machine Learning & Data Analytics Internship** at Infineon Technologies.
+Previous research and industry roles include the **Algoverse AI Research Program**, an **AI Research Fellowship** at the Stevens Institute for Artificial Intelligence and Research, a **Research Assistantship** at the National University of Singapore's Control, Intelligent Systems & Robotics group, and a **Machine Learning & Data Analytics Internship** at Infineon Technologies Singapore.
