@@ -1,8 +1,8 @@
 # Yogarajan Sivakumar
 
-**AI/ML Researcher | Mechanistic Interpretability · AI Safety & Alignment · Uncertainty-Aware ML**
+**AI/ML Researcher | Mechanistic and Causal Interpretability · AI Alignment & Safety · Model Evaluation · Uncertainty Quantification and Reliability**
 
-I’m an AI/ML researcher working on mechanistic interpretability, AI safety/alignment and uncertainty-aware machine learning, with a background in high-stakes clinical and biomedical ML.
+I’m an AI/ML researcher working on mechanistic interpretability, AI alignment and safety, model evaluation, and uncertainty quantification, with a background in trustworthy machine learning for safety-critical clinical and biomedical applications.
 
 Across both frontier-model and medical-AI research, I keep returning to the same problem: **when does an apparently interpretable pattern reflect a real mechanism rather than merely a useful correlation, and when do we know enough about a model to trust it?** Working with ICU clinicians made the practical side of this concrete to me: predictive performance is not enough if we cannot tell when a model should be distrusted, deferred to a human, or safely overruled.
 
@@ -10,11 +10,11 @@ Across both frontier-model and medical-AI research, I keep returning to the same
 
 ### ICU Extubation Outcomes & Length-of-Stay Prediction — NUS × Singapore General Hospital
 
-I am continuing a research collaboration with professors at the **National University of Singapore** and clinicians at **Singapore General Hospital** on interpretable machine-learning models for successful ICU extubation — whether a patient can remain safely off invasive ventilatory support — and length of stay.
+I am continuing a research collaboration with professors at the **National University of Singapore** and clinicians at **Singapore General Hospital** on interpretable machine-learning models for successful ICU extubation (whether a patient can remain safely off invasive ventilatory support) and length of stay.
 
 The project has grown from an initial predictive-modelling study into a longer-term effort to determine what would make such a system trustworthy enough for real clinical use. Current work focuses on stronger patient-level validation, interpretability, uncertainty and failure-mode analysis while preserving meaningful clinician oversight. We are working towards **publication and eventual clinical deployment**.
 
-*Ongoing collaboration; code and manuscript are not public because the work involves clinical data.*
+*Ongoing collaboration; code and manuscript are not public yet.*
 
 ### Frontier-Model Cooperation & Steerability — Game Theory & Evolutionary Algorithms
 
@@ -22,7 +22,7 @@ The project has grown from an initial predictive-modelling study into a longer-t
 
 I am continuing a project that began in my Master's course on game theory and evolutionary algorithms at **Stevens Institute of Technology**, now under the supervision of the professor who taught the course and with the goal of developing it towards publication.
 
-The project studies how frontier language models behave in repeated strategic interactions using iterated Prisoner’s Dilemma experiments, behavioural strategy classification and evolutionary dynamics. The question I find most interesting is whether seemingly small differences in model behaviour or prompt framing can become qualitatively different population dynamics once many AI agents interact and are selected on performance — and how that changes the threat profile of multi-agent deployments.
+The project studies how frontier language models behave in repeated strategic interactions using iterated Prisoner’s Dilemma experiments, behavioural strategy classification and evolutionary dynamics. The question I find most interesting is whether seemingly small differences in model behaviour or prompt framing can become qualitatively different population dynamics once many AI agents interact and are selected on performance, and how that changes the threat profile of multi-agent deployments.
 
 *Work in progress; code and manuscript are not yet public.*
 
@@ -58,7 +58,7 @@ The most useful result was partly negative: although selective prediction worked
 
 [Code](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound) · [Report](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound/blob/main/report/)
 
-### [Calibrated Clinical Scheduling — No-Show Prediction & Overbooking Optimisation](YOUR_SCHEDULING_REPO_URL)
+### [Calibrated Clinical Scheduling — No-Show Prediction & Overbooking Optimisation](https://github.com/Yogarajan12/clinic-overbooking-optimization)
 
 **Course project · Applied Modelling and Optimization**
 
@@ -68,13 +68,13 @@ One of the more useful lessons was that the lowest-cost policy was not automatic
 
 [Code](https://github.com/Yogarajan12/clinic-overbooking-optimization) · [Report](https://github.com/Yogarajan12/clinic-overbooking-optimization/blob/main/report/project_report.pdf)
 
-### [Interpretable Multivariate Gait Modelling](YOUR_GAIT_REPO_URL)
+### [Interpretable Multivariate Gait Modelling](https://github.com/Yogarajan12/gait-bracing-classification)
 
 **Course project · Pattern Recognition and Classification**
 
 Compared **Random Forests, Hidden Markov Models, attention-based LSTMs and Spatio-Temporal Graph Convolutional Networks** for classifying joint-angle dynamics under different bracing conditions, including subject-level generalisation tests.
 
-Beyond classification performance, I used feature importance, hidden-state structure, gradient-based saliency and temporal attention to ask whether predictions could be related back to recognisable biomechanical patterns — such as which joints and phases of the gait cycle carried the discriminative signal.
+Beyond classification performance, I used feature importance, hidden-state structure, gradient-based saliency and temporal attention to ask whether predictions could be related back to recognisable biomechanical patterns; such as which joints and phases of the gait cycle carried the discriminative signal.
 
 [Code](https://github.com/Yogarajan12/gait-bracing-classification) · [Report](https://github.com/Yogarajan12/gait-bracing-classification/blob/main/report/Sivakumar_Yogarajan_CPE646_Project_Report.pdf)
 
@@ -96,7 +96,7 @@ The work compared independently reconstructed representation directions, reasoni
 
 Co-authored work on serverless infrastructure for reinforcement learning from human feedback. RLHFless addresses wasted compute from repeated prefill, changing response lengths and static resource allocation during synchronous RLHF training, achieving up to **1.35× speedup and 44.8% lower cost** in the reported experiments.
 
-My contribution formed part of a broader collaborative systems effort during a summer **AI Research Fellowship at the Stevens Institute for Artificial Intelligence and Research**.
+My contribution was primarily to the experimental side of the project, running evaluations and validating that the reported results held consistently across the tested settings, during a summer **AI Research Fellowship at the Stevens Institute for Artificial Intelligence and Research**. Now under review for ACM Symposium on Cloud Computing 2026.
 
 [Paper — arXiv:2602.22718](https://arxiv.org/abs/2602.22718)
 
