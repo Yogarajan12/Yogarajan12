@@ -58,7 +58,7 @@ Designed a quality-gated fetal-ultrasound classifier that could **abstain and de
 
 The most useful result was partly negative: although selective prediction worked, diffusion uncertainty itself ranked classification errors substantially worse than simpler uncertainty baselines and largely failed at out-of-distribution detection. I kept that failure in the conclusion because knowing which confidence signals *not* to trust is part of building a trustworthy deferral system.
 
-[Code](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound) · [Report](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound/blob/main/report/)
+[Code](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound) · [Report](https://github.com/Yogarajan12/quality-gated-fetal-ultrasound/blob/main/report/Sivakumar_Yogarajan_Project_Report.pdf)
 
 ### [Calibrated Clinical Scheduling — No-Show Prediction & Overbooking Optimisation](https://github.com/Yogarajan12/clinic-overbooking-optimization)
 
